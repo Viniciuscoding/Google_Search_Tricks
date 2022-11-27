@@ -11,3 +11,5 @@ Ways to search better on Google search
 "mtg 30th Anniversary" after:2022<br>
 No findings<br>
 
+### Finding after or before a specific date
+
