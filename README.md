@@ -37,6 +37,6 @@ results shows Laptops Acer
 
 
 ### Using the asterisks wildcard
-"I like to move * down *"
-results are mostly about the song I Like to Move It
+"I like to move * down *"<br>
+results are mostly about the song I Like to Move It<br>
 NOTE: leave a placeholder that may be automatically filled by the search engine later. This is a brilliant way to find song lyrics if you don’t know all the words.
