@@ -23,8 +23,10 @@ No results<br>
 laptops -apple -dell -lenovo -acer -gigabyte -hp<br>
 results shows Laptops Acer
 
-### Searching results only under that specific filetype 
+### Searching results only under that specific filetype  in a specific website
 
 "coffee site:https://www.wto.org filetype: pdf"<br>
 52 results
 
+### Getting results that only includes the keyterms separated by AND from a specific website 
+"brazil AND coffee site:https://www.wto.org"
