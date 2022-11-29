@@ -11,5 +11,20 @@ Ways to search better on Google search
 "mtg 30th Anniversary" after:2022<br>
 No findings<br>
 
-### Finding after or before a specific date
+### Finding the exact words in a website
+
+"30th anniversary site:https:www.tcgplayer.com"
+4830 results
+"coffee site:https://www.wto.org"
+14700 results
+
+### Finding keywords while excluding other keywords in a search
+
+laptops -apple -dell -lenovo -acer -gigabyte -hp
+results shows Laptops Acer
+
+### Searching results only under that specific filetype 
+
+"coffee site:https://www.wto.org filetype: pdf"
+52 results
 
