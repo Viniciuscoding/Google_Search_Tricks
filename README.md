@@ -13,18 +13,18 @@ No findings<br>
 
 ### Finding the exact words in a website
 
-"30th anniversary site:https:www.tcgplayer.com"
+"30th anniversary site:https:www.tcgplayer.com"<br>
 4830 results
-"coffee site:https://www.wto.org"
+"coffee site:https://www.wto.org"<br>
 14700 results
 
 ### Finding keywords while excluding other keywords in a search
 
-laptops -apple -dell -lenovo -acer -gigabyte -hp
+laptops -apple -dell -lenovo -acer -gigabyte -hp<br>
 results shows Laptops Acer
 
 ### Searching results only under that specific filetype 
 
-"coffee site:https://www.wto.org filetype: pdf"
+"coffee site:https://www.wto.org filetype: pdf"<br>
 52 results
 
