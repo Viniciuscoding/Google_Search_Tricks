@@ -29,5 +29,14 @@ results shows Laptops Acer
 52 results
 
 ### Getting results that only includes the keyterms separated by AND from a specific website 
+
 "brazil AND coffee site:https://www.wto.org"<br>
 3240 results
+
+### Finding a page that links to another page
+
+
+### Using the asterisks wildcard
+"I like to move * down *"
+results are mostly about the song I Like to Move It
+NOTE: leave a placeholder that may be automatically filled by the search engine later. This is a brilliant way to find song lyrics if you don’t know all the words.
