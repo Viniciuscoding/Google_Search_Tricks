@@ -30,3 +30,4 @@ results shows Laptops Acer
 
 ### Getting results that only includes the keyterms separated by AND from a specific website 
 "brazil AND coffee site:https://www.wto.org"
+3240 results
