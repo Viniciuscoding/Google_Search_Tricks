@@ -17,6 +17,7 @@ No results<br>
 4830 results<br>
 "coffee site:https://www.wto.org"<br>
 14700 results
+NOTE: This feature is great to find information in a specific website, blog, or news.
 
 ### Finding keywords while excluding other keywords in a search
 
@@ -35,6 +36,10 @@ results shows Laptops Acer
 
 ### Finding a page that links to another page
 
+### Finding related websites
+related:godaddy.com
+results show many competitors to godaddy.com
+NOTE: Great feature to find websites of similar interests or competitors
 
 ### Using the asterisks wildcard
 "I like to move * down *"<br>
